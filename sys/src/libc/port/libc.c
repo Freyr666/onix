@@ -1,5 +1,5 @@
-#include "../../../386/include/u.h"
-#include "../../include/libc.h"
+#include "../../../../386/include/u.h"
+#include "../../../include/libc.h"
 
 size_t
 strlen(const char* str) {
